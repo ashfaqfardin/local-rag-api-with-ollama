@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+venv/
+.venv/
+
+chroma_db/
+
+.env
+.env.*
+!.env.example
+
+profile.txt
