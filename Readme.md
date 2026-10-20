@@ -2,6 +2,13 @@
 
 A local retrieval-augmented generation (RAG) API that stores profile text in ChromaDB, retrieves relevant passages, and uses Ollama to answer questions from that context.
 
+[![Contributors](https://img.shields.io/github/contributors/ashfaqfardin/local-rag-api-with-ollama)](https://github.com/ashfaqfardin/local-rag-api-with-ollama/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/ashfaqfardin/local-rag-api-with-ollama)](https://github.com/ashfaqfardin/local-rag-api-with-ollama/issues)
+[![Good First Issues](https://img.shields.io/github/issues/ashfaqfardin/local-rag-api-with-ollama/good%20first%20issue)](https://github.com/ashfaqfardin/local-rag-api-with-ollama/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+[![Last Commit](https://img.shields.io/github/last-commit/ashfaqfardin/local-rag-api-with-ollama)](https://github.com/ashfaqfardin/local-rag-api-with-ollama/commits)
+[![Repository Size](https://img.shields.io/github/repo-size/ashfaqfardin/local-rag-api-with-ollama)](https://github.com/ashfaqfardin/local-rag-api-with-ollama)
+[![License](https://img.shields.io/github/license/ashfaqfardin/local-rag-api-with-ollama)](https://github.com/ashfaqfardin/local-rag-api-with-ollama/blob/main/LICENSE)
+
 ## Features
 
 - **Document ingestion**: Submit profile text through an HTTP endpoint; the API splits it into paragraphs and stores them in ChromaDB.
