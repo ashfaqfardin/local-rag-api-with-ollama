@@ -128,3 +128,10 @@ rag-api/
 - **ChromaDB**: Persistent vector storage and similarity search
 - **Ollama**: Local embedding and language models
 - **Pydantic**: Request data validation
+
+## Documentation
+
+I build this project by following the steps from this tutorial, see [NextWork - Build a RAG API with FastAPI](https://nextwork.ai/projects/99ec4595-3d7b-5584-a799-aafb9c373bbb?track=high).
+
+## Contact
+If you want to reach out, you can contact me via [LinkedIn](https://www.linkedin.com/in/ashfaqfardin/) or [GitHub](https://github.com/ashfaqfardin/).
